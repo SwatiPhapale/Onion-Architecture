@@ -1,0 +1,14 @@
+C:\Practice\RepoProject\RepoProject.Repository\bin\Debug\netcoreapp3.1\RepoProject.Repository.deps.json
+C:\Practice\RepoProject\RepoProject.Repository\bin\Debug\netcoreapp3.1\RepoProject.Repository.dll
+C:\Practice\RepoProject\RepoProject.Repository\bin\Debug\netcoreapp3.1\RepoProject.Repository.pdb
+C:\Practice\RepoProject\RepoProject.Repository\bin\Debug\netcoreapp3.1\RepoProject.Core.dll
+C:\Practice\RepoProject\RepoProject.Repository\bin\Debug\netcoreapp3.1\RepoProject.Data.dll
+C:\Practice\RepoProject\RepoProject.Repository\bin\Debug\netcoreapp3.1\RepoProject.Core.pdb
+C:\Practice\RepoProject\RepoProject.Repository\bin\Debug\netcoreapp3.1\RepoProject.Data.pdb
+C:\Practice\RepoProject\RepoProject.Repository\obj\Debug\netcoreapp3.1\RepoProject.Repository.csprojAssemblyReference.cache
+C:\Practice\RepoProject\RepoProject.Repository\obj\Debug\netcoreapp3.1\RepoProject.Repository.AssemblyInfoInputs.cache
+C:\Practice\RepoProject\RepoProject.Repository\obj\Debug\netcoreapp3.1\RepoProject.Repository.AssemblyInfo.cs
+C:\Practice\RepoProject\RepoProject.Repository\obj\Debug\netcoreapp3.1\RepoProject.Repository.csproj.CoreCompileInputs.cache
+C:\Practice\RepoProject\RepoProject.Repository\obj\Debug\netcoreapp3.1\RepoProject.Repository.csproj.CopyComplete
+C:\Practice\RepoProject\RepoProject.Repository\obj\Debug\netcoreapp3.1\RepoProject.Repository.dll
+C:\Practice\RepoProject\RepoProject.Repository\obj\Debug\netcoreapp3.1\RepoProject.Repository.pdb

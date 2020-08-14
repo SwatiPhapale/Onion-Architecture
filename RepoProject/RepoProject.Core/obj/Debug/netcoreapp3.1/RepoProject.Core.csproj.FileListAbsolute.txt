@@ -1,0 +1,9 @@
+C:\Practice\RepoProject\RepoProject.Core\bin\Debug\netcoreapp3.1\RepoProject.Core.deps.json
+C:\Practice\RepoProject\RepoProject.Core\bin\Debug\netcoreapp3.1\RepoProject.Core.dll
+C:\Practice\RepoProject\RepoProject.Core\obj\Debug\netcoreapp3.1\RepoProject.Core.AssemblyInfoInputs.cache
+C:\Practice\RepoProject\RepoProject.Core\obj\Debug\netcoreapp3.1\RepoProject.Core.AssemblyInfo.cs
+C:\Practice\RepoProject\RepoProject.Core\bin\Debug\netcoreapp3.1\RepoProject.Core.pdb
+C:\Practice\RepoProject\RepoProject.Core\obj\Debug\netcoreapp3.1\RepoProject.Core.csproj.CoreCompileInputs.cache
+C:\Practice\RepoProject\RepoProject.Core\obj\Debug\netcoreapp3.1\RepoProject.Core.dll
+C:\Practice\RepoProject\RepoProject.Core\obj\Debug\netcoreapp3.1\RepoProject.Core.pdb
+C:\Practice\RepoProject\RepoProject.Core\obj\Debug\netcoreapp3.1\RepoProject.Core.csprojAssemblyReference.cache

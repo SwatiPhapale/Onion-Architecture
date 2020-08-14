@@ -1,0 +1,16 @@
+C:\Practice\RepoProject\RepoProject.Services\bin\Debug\netcoreapp3.1\RepoProject.Services.deps.json
+C:\Practice\RepoProject\RepoProject.Services\bin\Debug\netcoreapp3.1\RepoProject.Services.dll
+C:\Practice\RepoProject\RepoProject.Services\bin\Debug\netcoreapp3.1\RepoProject.Services.pdb
+C:\Practice\RepoProject\RepoProject.Services\bin\Debug\netcoreapp3.1\RepoProject.Core.dll
+C:\Practice\RepoProject\RepoProject.Services\bin\Debug\netcoreapp3.1\RepoProject.Data.dll
+C:\Practice\RepoProject\RepoProject.Services\bin\Debug\netcoreapp3.1\RepoProject.Repository.dll
+C:\Practice\RepoProject\RepoProject.Services\bin\Debug\netcoreapp3.1\RepoProject.Core.pdb
+C:\Practice\RepoProject\RepoProject.Services\bin\Debug\netcoreapp3.1\RepoProject.Repository.pdb
+C:\Practice\RepoProject\RepoProject.Services\bin\Debug\netcoreapp3.1\RepoProject.Data.pdb
+C:\Practice\RepoProject\RepoProject.Services\obj\Debug\netcoreapp3.1\RepoProject.Services.csprojAssemblyReference.cache
+C:\Practice\RepoProject\RepoProject.Services\obj\Debug\netcoreapp3.1\RepoProject.Services.AssemblyInfoInputs.cache
+C:\Practice\RepoProject\RepoProject.Services\obj\Debug\netcoreapp3.1\RepoProject.Services.AssemblyInfo.cs
+C:\Practice\RepoProject\RepoProject.Services\obj\Debug\netcoreapp3.1\RepoProject.Services.csproj.CoreCompileInputs.cache
+C:\Practice\RepoProject\RepoProject.Services\obj\Debug\netcoreapp3.1\RepoProject.Services.csproj.CopyComplete
+C:\Practice\RepoProject\RepoProject.Services\obj\Debug\netcoreapp3.1\RepoProject.Services.dll
+C:\Practice\RepoProject\RepoProject.Services\obj\Debug\netcoreapp3.1\RepoProject.Services.pdb

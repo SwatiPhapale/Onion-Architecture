@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="JobServices\**" />
+    <EmbeddedResource Remove="JobServices\**" />
+    <None Remove="JobServices\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RepoProject.Core\RepoProject.Core.csproj" />
+    <ProjectReference Include="..\RepoProject.Repository\RepoProject.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

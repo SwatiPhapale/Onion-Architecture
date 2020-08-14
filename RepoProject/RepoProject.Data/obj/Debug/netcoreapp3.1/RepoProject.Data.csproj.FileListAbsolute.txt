@@ -1,0 +1,15 @@
+C:\Practice\RepoProject\RepoProject.Data\bin\Debug\netcoreapp3.1\RepoProject.Data.deps.json
+C:\Practice\RepoProject\RepoProject.Data\bin\Debug\netcoreapp3.1\RepoProject.Data.dll
+C:\Practice\RepoProject\RepoProject.Data\obj\Debug\netcoreapp3.1\RepoProject.Data.csprojAssemblyReference.cache
+C:\Practice\RepoProject\RepoProject.Data\obj\Debug\netcoreapp3.1\RepoProject.Data.AssemblyInfoInputs.cache
+C:\Practice\RepoProject\RepoProject.Data\obj\Debug\netcoreapp3.1\RepoProject.Data.AssemblyInfo.cs
+C:\Practice\RepoProject\RepoProject.Data\bin\Debug\netcoreapp3.1\RepoProject.Data.pdb
+C:\Practice\RepoProject\RepoProject.Data\bin\Debug\netcoreapp3.1\RepoProject.Core.dll
+C:\Practice\RepoProject\RepoProject.Data\bin\Debug\netcoreapp3.1\RepoProject.Core.pdb
+C:\Practice\RepoProject\RepoProject.Data\obj\Debug\netcoreapp3.1\RepoProject.Data.csproj.CopyComplete
+C:\Practice\RepoProject\RepoProject.Data\obj\Debug\netcoreapp3.1\RepoProject.Data.dll
+C:\Practice\RepoProject\RepoProject.Data\obj\Debug\netcoreapp3.1\RepoProject.Data.pdb
+C:\Practice\RepoProject\RepoProject.Data\bin\Debug\netcoreapp3.1\RepoProject.Data.runtimeconfig.json
+C:\Practice\RepoProject\RepoProject.Data\bin\Debug\netcoreapp3.1\RepoProject.Data.runtimeconfig.dev.json
+C:\Practice\RepoProject\RepoProject.Data\obj\Debug\netcoreapp3.1\RepoProject.Data.genruntimeconfig.cache
+C:\Practice\RepoProject\RepoProject.Data\obj\Debug\netcoreapp3.1\RepoProject.Data.csproj.CoreCompileInputs.cache
